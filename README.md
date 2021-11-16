@@ -10,8 +10,6 @@
 
 
 ## Interested in
-<a><img src="https://img.shields.io/badge/VR,AR-black?style=flat-square&logo=Unity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AI-4371B2?style=flat-square&logo=OpenAI&logoColor=white"/>
 <img src="https://img.shields.io/badge/BlockChain-grey?style=flat-square&logo=Bitcoin&logoColor=white"/>
 
 
