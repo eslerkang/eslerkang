@@ -15,5 +15,5 @@
 
 
 ## I'm here
-<a href="https://velog.io/@eslerkang" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eslerkang)](https://velog.io/@eslerkang) 
 <a href="mailto:eslerkang@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B54A3A?style=flat-square&logo=Gmail&logoColor=white"/></a>
