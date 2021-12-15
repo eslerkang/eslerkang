@@ -1,5 +1,5 @@
 # EslerKang
-[![EslerKang's GitHub stats](https://github-readme-stats.vercel.app/api?username=EslerKang&count_private=true)](https://github.com/EslerKang/)
+[![EslerKang's GitHub stats](https://github-readme-stats.vercel.app/api?username=EslerKang&count_private=true)](https://github.com/eslerkang/)
 
 ## I'm using
 <a><img src="https://img.shields.io/badge/Python-5175A7?style=flat-square&logo=Python&logoColor=white"/></a>
