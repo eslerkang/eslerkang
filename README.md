@@ -51,6 +51,7 @@ Linux                    54 mins             ███████████�
   <img src="https://img.shields.io/badge/CSS-4371B2?style=flat-square&logo=CSS3&logoColor=white" align="center"/>&nbsp;
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"  align="center"/>&nbsp;
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" align="center" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" align="center" />&nbsp;
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" align="center" />&nbsp;
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" align="center" />&nbsp;
 </div>
