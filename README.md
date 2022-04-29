@@ -66,12 +66,6 @@ Linux                    54 mins             ███████████�
 -->
 
 
-
-## Interested in
-<img src="https://img.shields.io/badge/BlockChain-grey?style=flat-square&logo=Bitcoin&logoColor=white"/>
-
-
-
 ## I'm here
 <a href="https://velog.io/@eslerkang" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:eslerkang@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B54A3A?style=flat-square&logo=Gmail&logoColor=white"/></a>
