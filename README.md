@@ -42,6 +42,7 @@
   
 ## I'm using
 <div align="center">
+  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" align="center"/>&nbsp;
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" align="center"/>&nbsp;
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" align="center" />&nbsp;
   <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=Nestjs&logoColor=red" align="center"/>&nbsp;
