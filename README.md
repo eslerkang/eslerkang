@@ -7,40 +7,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslerkang&hide=shell&layout=compact)](https://github.com/eslerkang)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2038%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    111 commits    ███████░░░░░░░░░░░░░░░░░░   27.89% 
-🌆 Daytime    174 commits    ███████████░░░░░░░░░░░░░░   43.72% 
-🌃 Evening    105 commits    ██████░░░░░░░░░░░░░░░░░░░   26.38% 
-🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Git Config               0 secs              █████████████████████████   100.0%
-
-🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 18/06/2022 01:30:48 UTC
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
   
 ## I'm using
