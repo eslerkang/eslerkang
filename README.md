@@ -7,39 +7,39 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslerkang&hide=shell&layout=compact)](https://github.com/eslerkang)
   
   <!--START_SECTION:waka-->
-  ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-  
-  ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-81%20Thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2038%20mins-blue)
 
-  **저는 아침형 인간이에요. 🐤** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82%20Thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
 
 ```text
-🌞 아침         104 commits    ██████░░░░░░░░░░░░░░░░░░░   26.6% 
-🌆 낮　         174 commits    ███████████░░░░░░░░░░░░░░   44.5% 
-🌃 저녁         105 commits    ██████░░░░░░░░░░░░░░░░░░░   26.85% 
-🌙 밤　         8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
+🌞 Morning    111 commits    ███████░░░░░░░░░░░░░░░░░░   27.89% 
+🌆 Daytime    174 commits    ███████████░░░░░░░░░░░░░░   43.72% 
+🌃 Evening    105 commits    ██████░░░░░░░░░░░░░░░░░░░   26.38% 
+🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
 
 ```
 
 
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Seoul
+⌚︎ Time Zone: Asia/Seoul
 
-💬 프로그래밍 언어들: 
+💬 Programming Languages: 
 Git Config               0 secs              █████████████████████████   100.0%
 
-🔥 에디터들: 
+🔥 Editors: 
 Neovim                   0 secs              █████████████████████████   100.0%
 
-💻 운영 체제들: 
+💻 Operating System: 
 Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 17/06/2022 18:50:55 UTC
+ Last Updated on 18/06/2022 01:30:48 UTC
 <!--END_SECTION:waka-->
 </div>
   
