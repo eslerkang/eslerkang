@@ -10,7 +10,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslerkang&hide=shell&layout=compact)](https://github.com/eslerkang)
   
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93%20Thousand%20lines%20of%20code-blue)
 
@@ -18,7 +18,7 @@
 
 > 🏆 260 Contributions in the Year 2022
  > 
-> 📦 32.0 kB Used in GitHub's Storage 
+> 📦 32.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,7 +57,7 @@ Sunday       75 commits     ████░░░░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/08/2022 18:52:24 UTC
+ Last Updated on 10/08/2022 18:54:28 UTC
 <!--END_SECTION:waka-->
 </div>
   
