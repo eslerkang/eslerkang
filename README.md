@@ -16,7 +16,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 467 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 35.6 kB Used in GitHub's Storage 
  > 
@@ -57,7 +57,7 @@ Sunday       43 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/12/2022 18:42:19 UTC
+ Last Updated on 01/01/2023 18:43:03 UTC
 <!--END_SECTION:waka-->
 </div>
   
