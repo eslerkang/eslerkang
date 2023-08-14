@@ -10,15 +10,15 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslerkang&hide=shell&layout=compact)](https://github.com/eslerkang)
   
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-411.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-411.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 9.5 kB Used in GitHub's Storage 
  > 
-> 🏆 56 Contributions in the Year 2023
+> 🏆 57 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,18 +29,18 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                504 commits         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-🌆 Daytime                675 commits         ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-🌃 Evening                814 commits         █████████░░░░░░░░░░░░░░░░   34.76 % 
+🌞 Morning                504 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+🌆 Daytime                675 commits         ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+🌃 Evening                815 commits         █████████░░░░░░░░░░░░░░░░   34.78 % 
 🌙 Night                  349 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Monday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 Tuesday                  278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
 Wednesday                234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Thursday                 691 commits         ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+Thursday                 691 commits         ███████░░░░░░░░░░░░░░░░░░   29.49 % 
 Friday                   290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
 Saturday                 209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 Sunday                   368 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
@@ -54,7 +54,7 @@ Sunday                   368 commits         ████░░░░░░░�
 ```
 
 
- Last Updated on 13/08/2023 18:37:51 UTC
+ Last Updated on 14/08/2023 18:37:54 UTC
 <!--END_SECTION:waka-->
 </div>
   
