@@ -18,6 +18,8 @@
 
 > 📦 8.0 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -52,7 +54,7 @@ Sunday                   362 commits         ████░░░░░░░�
 ```
 
 
- Last Updated on 10/01/2024 18:38:57 UTC
+ Last Updated on 11/01/2024 18:38:38 UTC
 <!--END_SECTION:waka-->
 </div>
   
