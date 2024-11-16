@@ -10,15 +10,13 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslerkang&hide=shell&layout=compact)](https://github.com/eslerkang)
   
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-407.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 104.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
+> 📦 105.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,8 +24,35 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 15/11/2024 18:46:30 UTC
+```text
+🌞 Morning                519 commits         ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+🌆 Daytime                630 commits         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+🌃 Evening                793 commits         █████████░░░░░░░░░░░░░░░░   34.73 % 
+🌙 Night                  341 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Tuesday                  280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Wednesday                241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Thursday                 710 commits         ████████░░░░░░░░░░░░░░░░░   31.10 % 
+Friday                   291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Saturday                 210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Sunday                   364 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+```
+
+
+ Last Updated on 16/11/2024 18:43:31 UTC
 <!--END_SECTION:waka-->
 </div>
   
