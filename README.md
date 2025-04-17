@@ -10,7 +10,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslerkang&hide=shell&layout=compact)](https://github.com/eslerkang)
   
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-409.7%20thousand%20lines%20of%20code-blue)
 
@@ -52,7 +52,7 @@ Sunday                   364 commits         ████░░░░░░░�
 ```
 
 
- Last Updated on 16/04/2025 18:48:47 UTC
+ Last Updated on 17/04/2025 18:48:25 UTC
 <!--END_SECTION:waka-->
 </div>
   
