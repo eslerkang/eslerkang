@@ -57,33 +57,8 @@ Sunday                   364 commits         ████░░░░░░░�
  Last Updated on 29/09/2025 18:49:14 UTC
 <!--END_SECTION:waka-->
 </div>
-  
-## I'm using
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" align="center"/>&nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" align="center"/>&nbsp;
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" align="center" />&nbsp;
-  <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=Nestjs&logoColor=red" align="center"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-5175A7?style=flat-square&logo=Python&logoColor=white" align="center"/>&nbsp;
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" align="center" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"  align="center"/>&nbsp;
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" align="center" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" align="center" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" align="center" />&nbsp;
-</div>
 
-<div align="center">
-  <sub>created by <a href="https://github.com/qkrdmstlr3/techstack-generator" target="_blank">qkrdmstlr3</a></sub>
-</div>
-
-<!--
-<a><img src="https://img.shields.io/badge/Javascript-F0DF3E?style=flat-square&logo=Javascript&logoColor=white"/></a>
--->
-<!--
-<a><img src="https://img.shields.io/badge/Typescript-5175A7?style=flat-square&logo=Typescript&logoColor=white"/></a>
--->
 
 
 ## I'm here
-<a href="https://velog.io/@eslerkang" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:eslerkang@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B54A3A?style=flat-square&logo=Gmail&logoColor=white"/></a>
