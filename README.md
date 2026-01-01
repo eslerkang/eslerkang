@@ -10,15 +10,15 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslerkang&hide=shell&layout=compact)](https://github.com/eslerkang)
   
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-409.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-409.72%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 107.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,7 +54,7 @@ Sunday                   364 commits         ████░░░░░░░�
 ```
 
 
- Last Updated on 31/12/2025 18:52:24 UTC
+ Last Updated on 01/01/2026 18:53:33 UTC
 <!--END_SECTION:waka-->
 </div>
 
