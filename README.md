@@ -26,8 +26,35 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 23/05/2026 19:44:58 UTC
+```text
+🌞 Morning                520 commits         ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+🌆 Daytime                638 commits         ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+🌃 Evening                793 commits         █████████░░░░░░░░░░░░░░░░   34.57 % 
+🌙 Night                  343 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Tuesday                  284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Wednesday                243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Thursday                 714 commits         ████████░░░░░░░░░░░░░░░░░   31.12 % 
+Friday                   291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Saturday                 210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Sunday                   364 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+```
+
+
+ Last Updated on 24/05/2026 19:46:53 UTC
 <!--END_SECTION:waka-->
 </div>
 
